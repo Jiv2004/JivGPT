@@ -1,5 +1,7 @@
 Project Description: JivGPT
 
+![image](https://github.com/Jiv2004/JivGPT/assets/161616432/75cd7440-a422-4f16-abe9-67c3e1bd39bf)
+
 The JivGPT is a web application that leverages the power of OpenAI's GPT-3.5 architecture to provide users with an interactive and conversational experience. This project offers a seamless platform for users to engage in natural language conversations with an AI chatbot, JivGPT, which is capable of understanding and generating human-like text based on user input.
 
 Key Features:
